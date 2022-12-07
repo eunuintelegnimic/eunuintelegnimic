@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arteom</h1>
-- 🌱 I’m currently learning **Rust**
+- 👨‍💻 I’m currently learning **Rust**
 
 - ⚡ Fun fact **fe2c2aa5d735308d04373915b14e6357ad105802abc6111297e17a1ecbb76073**
 
