@@ -15,4 +15,4 @@
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
 
-[![eunuintelegnimic's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=eunuintelegnimic&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![eunuintelegnimic's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=eunuintelegnimic&show_icons=true&locale=en&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
